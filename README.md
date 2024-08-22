@@ -1,2 +1,2 @@
 # Braincore-Intern
-Intern on Braincore
+Hello I'm Rendika currently Intern on Braincore
